@@ -14,6 +14,7 @@
   </div>
 </section>
 <div class="bg-white rounded-lg shadow-md overflow-hidden">
+  <div class="bg-white rounded-lg shadow-md overflow-hidden">
   <img src="https://i.ibb.co/NLdhRg7/wall-wallpaper2.jpg" alt="Wall Wallpaper" class="w-full h-auto" />
   <div class="p-4">
     <h3 class="text-xl font-semibold text-gray-800">Wall Wallpaper</h3>
